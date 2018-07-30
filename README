@@ -1,0 +1,25 @@
+second commit
+
+# wordReverse_Java_SkillLevel5
+Program that prompts user for a word and then calls a recursive method to spell it in reverse
+
+
+This program is an answer to a continous assessment paper Question 2 of Assignment 3 for JAVA as follows:
+
+
+Write a program that prompts the user to enter a word and then calls a recursive method 
+
+public static String reverse(String str)
+
+
+that computes the reverse of the word entered.
+
+ For example, if the user enters the word “NOEL” the program will display the word “LEON”.
+
+
+
+Hint:
+Reverse the substring starting at the second character, then add the first character at the end.
+
+
+(25 marks)
